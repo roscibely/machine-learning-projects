@@ -1,5 +1,5 @@
 # Machine learning projects 
-Some machine learning projects implemented during my BSc in Computer.
+Some machine learning projects implemented during my BSc in Computer (2016).
 
 
 ## [k-Nearest Neighbors](https://github.com/roscibely/machine-learning-projects/tree/master/k-nearest-neighbors)
