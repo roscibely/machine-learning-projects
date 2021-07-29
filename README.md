@@ -28,3 +28,11 @@ Smallest-circle problem with simulated Annealing
 Implementation of A* search algorithm for the 8 puzzle
 
 <img src="A-star-search-algorithm/ide.jpeg" width="200" height="150">
+
+
+## [Regression models](https://github.com/roscibely/machine-learning-projects/tree/master/regression-models)
+
+ - Gradient Boosting for regression. [Read more about](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)  
+ - Random forest regressor. [Read more about](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+ - Linear Regression [Read more about](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ 
